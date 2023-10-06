@@ -2,9 +2,7 @@
 /*Main Function*/
 int main(void)
 {
-char myStr[] = '"\Programming is like building a multilingual puzzle \n';
-
-puts(myStr);
+puts("\"Programming is like building a multilingual puzzzle \n");
 
 return (0);
 }
