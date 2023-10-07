@@ -1,7 +1,9 @@
 #include <stdio.h>
+#include <unistd.h>
 /**
- * Description: main - print a string to the standard error.
- * return: a failure value (1)
+ * main - Entry point
+ * 
+ * return: Always (Success)
  */
 int main(void)
 {
