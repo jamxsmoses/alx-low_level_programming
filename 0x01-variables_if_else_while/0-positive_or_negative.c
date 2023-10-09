@@ -6,7 +6,7 @@
 /* betty style doc for function main goes there */
 /**
  * main - entry point.
- * return 0 (Always)
+ * return - 0 always.
  */
 int main(void)
 {
