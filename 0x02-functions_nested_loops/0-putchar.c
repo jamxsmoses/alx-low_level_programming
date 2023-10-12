@@ -1,16 +1,18 @@
-#include <stdio.h>
-#include <string.h>
+#include <main.h>
 /**
- * Description: main - entry point.
- * Return: Always 0 (Success)
+ * main - Entry point
+ * Return: Always 0
  */
 int main(void)
 {
-        char str[] = "_putchar";
-        
-        for (int i = 0; i < strlen(str); i++)
-        {
-            putchar(str[i]);
-        }
-        return (0);
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
+	return (0);
 }
